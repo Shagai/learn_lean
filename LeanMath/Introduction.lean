@@ -2,4 +2,6 @@ import LeanMath.Introduction.Lesson01_ProofsAsPrograms
 import LeanMath.Introduction.Lesson02_AndImplicationForallExists
 import LeanMath.Introduction.Lesson03_EqualityRewritingSimp
 import LeanMath.Introduction.Lesson04_NaturalNumbersInduction
-
+import LeanMath.Introduction.Lesson05_OrFalseNegation
+import LeanMath.Introduction.Lesson06_IffAndByCases
+import LeanMath.Introduction.Lesson07_ParityAndDivisibility
