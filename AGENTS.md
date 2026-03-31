@@ -16,6 +16,7 @@ This repository teaches mathematics through Lean and teaches Lean through mathem
 
 - Topic folders live under `LeanMath/` and represent the curriculum.
 - Keep lesson filenames ordered with `LessonNN_...`.
+- Add a companion `_Notes.md` file for each lesson and keep it aligned with the lesson content.
 - Add or update the topic `README.md` whenever a new lesson is added.
 - Keep the root `README.md` aligned with the current lesson map.
 - Avoid leaving `sorry` in committed lesson files unless the lesson is explicitly an unfinished worksheet.
@@ -33,4 +34,3 @@ This repository teaches mathematics through Lean and teaches Lean through mathem
 - After the current introduction sequence, grow algebra and calculus gradually.
 - Create new top-level folders only when there is a coherent mini-sequence to add.
 - Good candidate future areas: `NumberTheory`, `Topology`, `LinearAlgebra`, `Logic`.
-
